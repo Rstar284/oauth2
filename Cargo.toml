@@ -1,5 +1,5 @@
 [package]
-authors = ["Twilight Contributors"]
+authors = ["Twilight Contributors, Rstar284"]
 documentation = "https://docs.rs/twilight-oauth2"
 edition = "2018"
 homepage = "https://github.com/twilight-rs/twilight/tree/trunk/oauth2"
